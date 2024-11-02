@@ -29,7 +29,7 @@ class DatabaseSeeder extends Seeder
             PivotSiswaKelasSeeder::class,
             PivotGuruMapelSeeder::class,
             PivotGuruKelasSeeder::class,
-            JadwalBelajarSeeder::class,
+            JadwalMapelSeeder::class,
             JadwalUjianSeeder::class,
         ]);
 

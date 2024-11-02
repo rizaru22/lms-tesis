@@ -8,7 +8,7 @@ use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use App\Models\ManajemenBelajar\Jadwal\Belajar as JadwalBelajar;
 
-class JadwalBelajarSeeder extends Seeder
+class JadwalMapelSeeder extends Seeder
 {
     /**
      * Run the database seeds.

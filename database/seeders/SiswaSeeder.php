@@ -18,11 +18,12 @@ class SiswaSeeder extends Seeder
     {
         Siswa::create([
             "nama" => "Siswa",
-            "nim" => "22222222",
+            "nis" => "22222222",
             "email" => "siswa@email.com",
             "user_id" => 3,
             "Programkeahlian_id" => 1,
-            "kelas_id" => 1
+            "kelas_id" => 1,
+            "ortu_id"=>1
         ]);
     }
 }

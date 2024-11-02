@@ -23,7 +23,7 @@ class OrtuSeeder extends Seeder
                 "alamat" => "Bener Meriah",
                 "nohp" => "085360950382",
                 "email" => "ortu@email.com",
-                "user_id" => 5,
+                "user_id" => 4,
             ]
         ]);
     }
